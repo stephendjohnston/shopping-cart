@@ -1,20 +1,25 @@
-const Product = ({title, quantity, price}) => {
-  let addToCartBtnClass = quantity === 0 ? "button.disabled add-to-cart" : "button add-to-cart";
-
+const Product = ({ title, quantity, price }) => {
   return (
-    <div className='product'>
-      <div className='product-details'>
+    <div className="product">
+      <div className="product-details">
         <h3>{title}</h3>
-        <p className='price'>{price}</p>
-        <p className='quantity'>{quantity} left in stock</p>
+        <p className="price">{price}</p>
+        <p className="quantity">{quantity} left in stock</p>
         <div className="actions product-actions">
-          <a className={addToCartBtnClass} style={{pointerEvents: quantity ? 'auto' : 'none'}}>Add to Cart</a>
+          <a
+            className="button add-to-cart"
+            style={{ pointerEvents: quantity ? "auto" : "none" }}
+          >
+            Add to Cart
+          </a>
           <a className="button edit">Edit</a>
         </div>
-        <a className="delete-button"><span>X</span></a>
+        <a className="delete-button">
+          <span>X</span>
+        </a>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Product
+export default Product;
