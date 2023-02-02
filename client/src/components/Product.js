@@ -1,9 +1,12 @@
+import axios from "axios";
+
 const Product = ({ setProducts, _id, title, quantity, price }) => {
   const handleDelete = (e) => {
     e.preventDefault();
 
     try {
       axios.delete(`/api/products/${_id}`);
+      setProducts((prev) => prev.filter(p => p._id != _id));
     } catch (error) {
       throw new Error(error);
     }
@@ -20,7 +23,7 @@ const Product = ({ setProducts, _id, title, quantity, price }) => {
           <a className="button edit">Edit</a>
         </div>
         <a className="delete-button" onClick={handleDelete}>
-          <span>X</span>
+          <span onClick={handleDelete}>X</span>
         </a>
       </div>
     </div>
