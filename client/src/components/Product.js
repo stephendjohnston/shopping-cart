@@ -1,6 +1,11 @@
+import { useState } from 'react';
 import axios from "axios";
+import EditForm from "./EditForm";
 
 const Product = ({ setProducts, _id, title, quantity, price }) => {
+  const [formVisible, setFormVisible] = useState(false);
+  const product = {_id, title, quantity, price}
+
   const handleDelete = (e) => {
     e.preventDefault();
 
@@ -12,6 +17,12 @@ const Product = ({ setProducts, _id, title, quantity, price }) => {
     }
   };
 
+  const handleEdit = (e) => {
+    e.preventDefault();
+    console.log('hehehe', formVisible);
+    
+  }
+
   return (
     <div className="product">
       <div className="product-details">
@@ -20,12 +31,14 @@ const Product = ({ setProducts, _id, title, quantity, price }) => {
         <p className="quantity">{quantity} left in stock</p>
         <div className="actions product-actions">
           <a className="button add-to-cart">Add to Cart</a>
-          <a className="button edit">Edit</a>
+          <a onClick={handleEdit} className="button edit">Edit</a>
         </div>
         <a className="delete-button" onClick={handleDelete}>
           <span onClick={handleDelete}>X</span>
         </a>
       </div>
+      {formVisible && <p>Hello</p>}
+      {/* {formVisible && <EditForm setProducts={setProducts} setFormVisible={setFormVisible} formVisible={formVisible} {...product}/>} */}
     </div>
   );
 };
