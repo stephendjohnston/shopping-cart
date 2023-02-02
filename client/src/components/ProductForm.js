@@ -1,21 +1,87 @@
-import InputGroup from "./InputGroup"
+import { useState, useEffect } from "react";
+import axios from "axios";
+import InputGroup from "./InputGroup";
 
-const ProductForm = () => {
+const ProductForm = ({ setProducts }) => {
+  const [title, setTitle] = useState("");
+  const [price, setPrice] = useState();
+  const [quantity, setQuantity] = useState();
+  const [formVisible, setFormVisible] = useState(false);
+
+  const handleClick = (e) => {
+    e.preventDefault();
+    setFormVisible(!formVisible);
+  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+
+    const product = { title, price, quantity };
+
+    try {
+      axios.post("/api/products", product);
+      setProducts((prev) => [...prev, product]);
+      resetForm();
+    } catch (error) {
+      throw new Error(error);
+    }
+  };
+
+  const handleCancel = (e) => {
+    e.preventDefault();
+
+    resetForm();
+    setFormVisible(!formVisible);
+  };
+
+  const resetForm = () => {
+    setTitle("");
+    setPrice();
+    setQuantity();
+  };
+
   return (
-    <div className='add-form'>
-      <p><a className="button add-product-button">Add A Product</a></p>
-      <h3>Add Product</h3>
-      <form>
-        <InputGroup labelId={'product-name'} labelName={'Product Name'}/>
-        <InputGroup labelId={'product-price'} labelName={'Price'}/>
-        <InputGroup labelId={'product-quantity'} labelName={'Quantity'}/>
-        <div className="actions form-actions">
-          <a className="button">Add</a>
-          <a className="button">Cancel</a>
-        </div>
-      </form>
+    <div className="add-form.visible">
+      <p>
+        <a className="button add-product-button" onClick={handleClick}>
+          Add A Product
+        </a>
+      </p>
+      {formVisible && (
+        <>
+          <h3>Add Product</h3>
+          <form>
+            <InputGroup
+              value={title}
+              onChange={setTitle}
+              labelId={"product-name"}
+              labelName={"Product Name"}
+            />
+            <InputGroup
+              value={price}
+              onChange={setPrice}
+              labelId={"product-price"}
+              labelName={"Price"}
+            />
+            <InputGroup
+              value={quantity}
+              onChange={setQuantity}
+              labelId={"product-quantity"}
+              labelName={"Quantity"}
+            />
+            <div className="actions form-actions">
+              <a className="button" onClick={handleSubmit}>
+                Add
+              </a>
+              <a className="button" onClick={handleCancel}>
+                Cancel
+              </a>
+            </div>
+          </form>
+        </>
+      )}
     </div>
-  )
-}
+  );
+};
 
-export default ProductForm
+export default ProductForm;

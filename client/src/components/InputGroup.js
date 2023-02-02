@@ -1,10 +1,15 @@
-const InputGroup = ({labelId, labelName}) => {
+const InputGroup = ({ value, onChange, labelId, labelName }) => {
   return (
-    <div className='input-group'>
+    <div className="input-group">
       <label htmlFor={labelId}>{labelName}</label>
-      <input type='text' id={labelId} value=''/>
+      <input
+        value={value}
+        onChange={(e) => onChange(e.target.value)}
+        type="text"
+        id={labelId}
+      />
     </div>
-  )
-}
+  );
+};
 
-export default InputGroup
+export default InputGroup;
