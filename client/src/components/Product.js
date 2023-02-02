@@ -5,6 +5,7 @@ import EditForm from "./EditForm";
 const Product = ({ setProducts, _id, title, quantity, price }) => {
   const [formVisible, setFormVisible] = useState(false);
   const product = { _id, title, quantity, price };
+  const buttonDisabled = quantity === 0 ? true : false;
 
   const handleDelete = (e) => {
     e.preventDefault();
@@ -30,7 +31,13 @@ const Product = ({ setProducts, _id, title, quantity, price }) => {
         <p className="quantity">{quantity} left in stock</p>
         {!formVisible && (
           <div className="actions product-actions">
-            <a className="button add-to-cart">Add to Cart</a>
+            <a
+              className={
+                buttonDisabled ? "button.disabled" : "button add-to-cart"
+              }
+            >
+              Add to Cart
+            </a>
             <a onClick={handleEdit} className="button edit">
               Edit
             </a>
@@ -40,7 +47,6 @@ const Product = ({ setProducts, _id, title, quantity, price }) => {
           <span onClick={handleDelete}>X</span>
         </a>
       </div>
-      {/* {formVisible && <p>Hello</p>} */}
       {formVisible && (
         <EditForm
           setProducts={setProducts}
