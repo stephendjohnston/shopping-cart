@@ -21,6 +21,7 @@ const ProductForm = ({ setProducts }) => {
     try {
       axios.post("/api/products", product);
       setProducts((prev) => [...prev, product]);
+      setFormVisible(false);
       resetForm();
     } catch (error) {
       throw new Error(error);
@@ -42,11 +43,13 @@ const ProductForm = ({ setProducts }) => {
 
   return (
     <div className="add-form.visible">
-      <p>
-        <a className="button add-product-button" onClick={handleClick}>
-          Add A Product
-        </a>
-      </p>
+      {!formVisible && (
+        <p>
+          <a className="button add-product-button" onClick={handleClick}>
+            Add A Product
+          </a>
+        </p>
+      )}
       {formVisible && (
         <>
           <h3>Add Product</h3>

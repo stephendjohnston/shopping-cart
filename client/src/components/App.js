@@ -30,7 +30,9 @@ const App = () => {
         </div>
       </header>
       <main>
-        <ProductListing products={products} setProducts={setProducts} />
+        {products && products.length > 0 && (
+          <ProductListing products={products} setProducts={setProducts} />
+        )}
         <ProductForm setProducts={setProducts} />
       </main>
     </div>
