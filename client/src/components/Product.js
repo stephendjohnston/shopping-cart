@@ -33,7 +33,7 @@ const Product = ({ setProducts, _id, title, quantity, price }) => {
           <div className="actions product-actions">
             <a
               className={
-                buttonDisabled ? "button.disabled" : "button add-to-cart"
+                buttonDisabled ? "button-disabled" : "button add-to-cart"
               }
             >
               Add to Cart
