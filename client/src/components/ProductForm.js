@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import axios from "axios";
 import InputGroup from "./InputGroup";
 
@@ -7,6 +7,7 @@ const ProductForm = ({ setProducts }) => {
   const [price, setPrice] = useState();
   const [quantity, setQuantity] = useState();
   const [formVisible, setFormVisible] = useState(false);
+  // console.log("From ProductForm.js", {title, price, quantity})
 
   const handleClick = (e) => {
     e.preventDefault();
@@ -19,8 +20,8 @@ const ProductForm = ({ setProducts }) => {
     const product = { title, price, quantity };
 
     try {
-      axios.post("/api/products", product);
-      setProducts((prev) => [...prev, product]);
+      const response = await axios.post("/api/products", product);
+      setProducts((prev) => [...prev, response.data]);
       setFormVisible(false);
       resetForm();
     } catch (error) {

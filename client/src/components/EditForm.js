@@ -13,7 +13,7 @@ const EditForm = ({
   const [newTitle, setNewTitle] = useState(title);
   const [newQuantity, setNewQuantity] = useState(quantity);
   const [newPrice, setNewPrice] = useState(price);
-
+  // console.log("From EditForm.js", {newTitle, newPrice, newQuantity, _id})
   const handleUpdate = async (e) => {
     e.preventDefault();
 
