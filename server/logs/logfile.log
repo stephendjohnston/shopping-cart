@@ -1,0 +1,381 @@
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"my-app"}
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"my-app"}
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"my-app"}
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"my-app"}
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"my-app"}
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"my-app"}
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"my-app"}
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"my-app"}
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"shopping-cart-app"}
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"shopping-cart-app"}
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"my-app"}
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"shopping-cart-app"}
+{"level":"info","message":"This is an informational message, or you can put whatever the hell you want in there, punk.","service":"shopping-cart-app"}
+{"level":"info","message":"Ther Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"Ther Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"Ther Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"Ther Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{
+  level: 'info',
+  message: 'The Server is up and running on localhost port 3000!',
+  label: 'winston custom format',
+  timestamp: 'Feb-27-2023 11:28:18'
+}
+{
+  level: 'info',
+  message: 'The Server is up and running on localhost port 3000!',
+  label: 'shopping-cart-app',
+  timestamp: 'Feb-27-2023 11:29:05'
+}
+{
+  level: 'info',
+  message: 'This is the GET /cart route',
+  label: 'shopping-cart-app',
+  timestamp: 'Feb-27-2023 11:32:39'
+}
+{
+  level: 'info',
+  message: 'This is the GET /products route',
+  label: 'shopping-cart-app',
+  timestamp: 'Feb-27-2023 11:32:39'
+}
+{
+  level: 'info',
+  message: 'This is the GET /cart route',
+  label: 'shopping-cart-app',
+  timestamp: 'Feb-27-2023 11:32:39'
+}
+{
+  level: 'info',
+  message: 'This is the GET /products route',
+  label: 'shopping-cart-app',
+  timestamp: 'Feb-27-2023 11:32:39'
+}
+{
+  level: 'info',
+  message: 'This is the GET /cart route',
+  label: 'shopping-cart-app',
+  timestamp: 'Feb-27-2023 11:37:05'
+}
+{
+  level: 'info',
+  message: 'This is the GET /products route',
+  label: 'shopping-cart-app',
+  timestamp: 'Feb-27-2023 11:37:05'
+}
+{
+  level: 'info',
+  message: 'This is the GET /cart route',
+  label: 'shopping-cart-app',
+  timestamp: 'Feb-27-2023 11:37:05'
+}
+{
+  level: 'info',
+  message: 'This is the GET /products route',
+  label: 'shopping-cart-app',
+  timestamp: 'Feb-27-2023 11:37:05'
+}
+{
+  level: 'info',
+  message: 'The Server is up and running on localhost port 3000!',
+  label: 'shopping-cart-app',
+  timestamp: 'Feb-27-2023 11:39:40'
+}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the PUT /products/:id route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /products route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the PUT /products/:id route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /products route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the PUT /products/:id route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the PUT /products/:id route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the DELETE /products/:id route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the DELETE /products/:id route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"002f088ac63940e8","trace_flags":"01","trace_id":"ed0508592ab730bb4e50b0960afc645f"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"0159c0d4d9726087","trace_flags":"01","trace_id":"39ea4d7dd52db89914cd6f28b5645f6f"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app","span_id":"ac5c4ac1eff8992f","trace_flags":"01","trace_id":"37f9a73ca713b0382c82200bf3ee4577"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"1ca31ecdd26b70b8","trace_flags":"01","trace_id":"ab074475ac1eb54e94d3b53cf7c1e006"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"18e039c560737a99","trace_flags":"01","trace_id":"4c667116a5bd75d4f0f085fe41c4d714"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"eaa39bf4c044cdb3","trace_flags":"01","trace_id":"8e4b54a4a68c230b728f54891fd904eb"}
+{"level":"info","message":"This is the PUT /products/:id route","service":"shopping-cart-app","span_id":"4b83c9b19650960f","trace_flags":"01","trace_id":"24cfced4fd31446edc608507bf98d53a"}
+{"level":"info","message":"This is the POST /products route","service":"shopping-cart-app","span_id":"d2e082160d9f6f7d","trace_flags":"01","trace_id":"6ef06fda7263b0c973f68acd051db1fa"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"4085091d2ef258ca","trace_flags":"01","trace_id":"374f6de7432c06be60b259e6825522a6"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"873d4c8f0751e216","trace_flags":"01","trace_id":"99f22f0f30294d553d709b94ba1420f5"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"3d46e90d48a1ca68","trace_flags":"01","trace_id":"9df6ce99b98b188e8ad30dd297844e01"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"ba97214f0acec81d","trace_flags":"01","trace_id":"eae1fe06f6bc310909e3d769b3138c24"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"9c2bf7ea4d2334f5","trace_flags":"01","trace_id":"dd8c25babd30affefa0e763eac92eea1"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"27362d9e95751e8b","trace_flags":"01","trace_id":"624384f2989be7e7f13517e393b9d507"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"dfc9a45ae20dc751","trace_flags":"01","trace_id":"5c0522694ec9f37355493ed76a066a9e"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"cbe31f289858ba03","trace_flags":"01","trace_id":"f342837c95f5e11ced149af02a94c6cc"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"1bdc54a4bb070be3","trace_flags":"01","trace_id":"3ee0270b0ae7a1eb3538844c102b4c6a"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"6f6203ef661c5446","trace_flags":"01","trace_id":"5cc3acfab2afb3618f298be9ad1f0bb2"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"4a115a6afc61c9fe","trace_flags":"01","trace_id":"19cfbfe69f5c49777be9129d22f615f4"}
+{"level":"info","message":"This is the PUT /products/:id route","service":"shopping-cart-app","span_id":"974ec1ca2fa675fd","trace_flags":"01","trace_id":"8f476cb83f275e51edf0ec9650f60363"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"0035093e55f01897","trace_flags":"01","trace_id":"1c4815ce573b63460b690fcefe9540a8"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"28cad7cd04ef374e","trace_flags":"01","trace_id":"07251a6af1f2288215b6b3c629109329"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"91756fb2ae19e7dc","trace_flags":"01","trace_id":"0de9fb67bc7a5a91e7694f04c733691b"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"6bc23c97734b1d6c","trace_flags":"01","trace_id":"6c7ab8fb30d7993b18ab1e3b1e836bf7"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"caf8f9b8e737530e","trace_flags":"01","trace_id":"25b50653a6c7838a6c8c7f220f66a8cb"}
+{"level":"info","message":"This is the DELETE /products/:id route","service":"shopping-cart-app","span_id":"e905c6cef5f95c83","trace_flags":"01","trace_id":"a82f4add5c931c26b8eeff30b361b43d"}
+{"level":"info","message":"This is the DELETE /products/:id route","service":"shopping-cart-app","span_id":"813f0f3919b8784d","trace_flags":"01","trace_id":"6be57619dd98440897045fe1d5b6d257"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app","span_id":"b0ac971bd075488c","trace_flags":"01","trace_id":"8acfb39d64dbe1bad9a05a87ad81f770"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app","span_id":"863fe85249af7221","trace_flags":"01","trace_id":"693dfc8e74b67649cf844e42789b67f2"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app","span_id":"e1e7e23bcafb5a28","trace_flags":"01","trace_id":"3d7cbc0ad1b9ae6c3f6fb9b0c653bae0"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app","span_id":"5b339496009ee8dc","trace_flags":"01","trace_id":"98a7f721fee911f520f921d6acb5e503"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app","span_id":"fc4f713d6f34c54d","trace_flags":"01","trace_id":"470349a9632464f7f053084562fe7b1d"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"d153b6c2cdf503db","trace_flags":"01","trace_id":"163d791d099e267b720e2dd81916ffb3"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"f25a3956648c3bf5","trace_flags":"01","trace_id":"c821451053f9cb1fbeeaa55e85488a69"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app","span_id":"a53159ffaab70526","trace_flags":"01","trace_id":"5b851327d3410fdfb1ab4ef6ff0fc0fa"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"b7e227638d533b40","trace_flags":"01","trace_id":"7ab59fec375befcabacc763a4af76497"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"d2e2df1b4ba166c0","trace_flags":"01","trace_id":"6ffa24cf822085075b3238fb4711ef91"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"1d586d9fd959bd52","trace_flags":"01","trace_id":"dedf0e48ffe6380c37e047f4711ed48c"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"da9e39823724d99d","trace_flags":"01","trace_id":"ce911d4ab95a0efbd429a0807535c7b2"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"7075ac06667b41bb","trace_flags":"01","trace_id":"dfda91571510c67a67051dc8a47d4b11"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"291ae9fc777216cf","trace_flags":"01","trace_id":"3b85572553225bdb428bf0ce0010c726"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"442abc11443f246d","trace_flags":"01","trace_id":"9c8411f8d71f36ba1c29aba0daffb161"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"e60870dd074037e6","trace_flags":"01","trace_id":"431232850476268e5fdfeb7be1acf549"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"674306020379f4c3","trace_flags":"01","trace_id":"1d8fca4fe70d029b4f132d6e7cd4c018"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"8c017a1070ece089","trace_flags":"01","trace_id":"8cf692dc21f2858cf09a6f132cdc2313"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"7be68139ad2ac8f1","trace_flags":"01","trace_id":"71e9c12866e11420a001d21ba49ac566"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"213167b2372fecaa","trace_flags":"01","trace_id":"e79267298317a5afb29398a1c4713fdf"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"09d37facea28679b","trace_flags":"01","trace_id":"de69bd4aeaedffe1c39c466f2bbc4a20"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"3fb16e8bb87a2aa9","trace_flags":"01","trace_id":"b5e210bd68bc60902e0598c283397972"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"9d68ff68b0b20ab8","trace_flags":"01","trace_id":"71379f24036430e8aaef20dc5e12c0db"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"9b7d10f29b7f0125","trace_flags":"01","trace_id":"44414a1024a614559aa87dc38a5d6654"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"c4878f632490063b","trace_flags":"01","trace_id":"fd6de3c5ecca9eb165876771290bebde"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"b9ba702a720d17c8","trace_flags":"01","trace_id":"b9f904082e94c5cd1653c954bde01788"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"168faafa63001889","trace_flags":"01","trace_id":"e425c252983d9c22d6a6334af3cdec09"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"a08711ce795ba649","trace_flags":"01","trace_id":"ba6d9bb9d9699c45c37ed8ecf559e2a1"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"dcb8c8526491c9df","trace_flags":"01","trace_id":"57518114e0225abf11961f51519c9b66"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"712dba6838422abf","trace_flags":"01","trace_id":"ec15de955506437cdab72408ecf5e2bf"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"6f9ebef4ec4c002a","trace_flags":"01","trace_id":"2c632d28cdd1b60ecee4f7df19368985"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"dd4c940e747e9e64","trace_flags":"01","trace_id":"846b333525cfe0a33ef06c93b00dd6ca"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"bd9fd25c6223f7de","trace_flags":"01","trace_id":"d5b8ca93e6261378759b7481061a6b82"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"d7326916a8af0db5","trace_flags":"01","trace_id":"d54b3084b650ea344c611d45d4301bca"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"904fc10307b4c429","trace_flags":"01","trace_id":"c30e83e6e80d86b9433b819b4d9599af"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"a6e470ad63358c96","trace_flags":"01","trace_id":"90b4c17fe1088d9f8a0e63323799ba89"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"9c62a46f3941fdb4","trace_flags":"01","trace_id":"4f7cb1a60ef9b164523d8a61535ed572"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"ed2a32fd46a9bbb6","trace_flags":"01","trace_id":"34f8b31001748356a91cee9fa86a377b"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"f5c8f9504967e186","trace_flags":"01","trace_id":"8553ab12e472bb75a02b7554e90791b5"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"d30c804c53e07dc0","trace_flags":"01","trace_id":"0f61729eeb434b49937dbc9ab09267a3"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"2228ba48e6207d55","trace_flags":"01","trace_id":"3262dbfa11160eb53e1fba5cc3e5f22f"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"9265f12e0d44d5d3","trace_flags":"01","trace_id":"ed64614f81a397198dd13494a95e53f1"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"7b2fcbe087ec5f2c","trace_flags":"01","trace_id":"4629f0190fd42c04365f30d6865b0305"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"289d2208d3ea7560","trace_flags":"01","trace_id":"884079e92fb070f774a8abbeaee9b32b"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"b6205eda33aeb0f3","trace_flags":"01","trace_id":"a1178a419096dd4d4f110c747b6636ae"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"07a4770dd27ca090","trace_flags":"01","trace_id":"670405cc9e6bab22427a9116fed8a765"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"d46a1a50b8fbb7a5","trace_flags":"01","trace_id":"4c2028715b2c9190247a521939a5010a"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"35a5339ebcb06cbe","trace_flags":"01","trace_id":"cbbd92b565c240d3b797370f6b283bd0"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"5738acf7a0e6d8a8","trace_flags":"01","trace_id":"b94ebe14fc57b3d6c69202f31d73398e"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"aec1430ccb343547","trace_flags":"01","trace_id":"7559d6d63f3c16a81018244085cc52da"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"3676a58ccaeabf02","trace_flags":"01","trace_id":"b27ed511b3bcf755fd90072f9dd31891"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"f32bc92ffcc68113","trace_flags":"01","trace_id":"d43d109066e84284890866cfe98c2af3"}
+{"level":"info","message":"This is the PUT /products/:id route","service":"shopping-cart-app","span_id":"4c42a41b1e75223e","trace_flags":"01","trace_id":"b42bfd1a852d04f49ae7d1c154455522"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"14e4e78809f481b7","trace_flags":"01","trace_id":"38d7cc0506666876d819b8a020ee886b"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"28b16a641544fb81","trace_flags":"01","trace_id":"a341a9178e639122049b88a6e01263ca"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"39ba3dd0123aa6fd","trace_flags":"01","trace_id":"9b67eee594e878c04aba988b2699fcde"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"9a5ce64efecd960b","trace_flags":"01","trace_id":"a3d8d416e4f39fed6c0c8cecda4b6209"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"16d4157cf0d32d48","trace_flags":"01","trace_id":"90fc28323101041034435d1add9e0ea2"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"845ec07f97a1ccee","trace_flags":"01","trace_id":"a982d427247873a39e332355d3c6b9fe"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"5da5e5b912bc4961","trace_flags":"01","trace_id":"8674504e06c36ac7b295cfa012c353b7"}
+{"level":"info","message":"This is the PUT /products/:id route","service":"shopping-cart-app","span_id":"57bcbcf1661e4798","trace_flags":"01","trace_id":"e2f7814b64737e5116103594e124fcd2"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"5d4826e814ca994f","trace_flags":"01","trace_id":"76aca0f8af22e955e040e58a5e041589"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"4cf22e92ab76aba4","trace_flags":"01","trace_id":"cb1bff23619274611140451eec9ca77d"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"9e9e47d67684dcd1","trace_flags":"01","trace_id":"c1d3ad0cc5a78ec022240b9c218de0ce"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"02dc7686a55b353b","trace_flags":"01","trace_id":"8e8e608c5b031e4da5e39cc19e5cfb28"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app","span_id":"c1bfdfcd943a0c7f","trace_flags":"01","trace_id":"0327d3c17eecbcd77e1ea9818782dc51"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"8721a1dd7c0b426e","trace_flags":"01","trace_id":"19d6a4a7c8da40d129e07ee484b83af9"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"632e335cdb16774e","trace_flags":"01","trace_id":"d487870e03334d2cad64be1c908d0cd8"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"8fc23b59d8c17030","trace_flags":"01","trace_id":"7d68ac5ec1230c4d95971c8e3692223f"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"641c336145ff133f","trace_flags":"01","trace_id":"a952bcf9df0079a201c55c8720e2c160"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"2b9920a1d49e9782","trace_flags":"01","trace_id":"4d4dabf0015b79d2466e626c43c988cb"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app","span_id":"f3863681099be6f3","trace_flags":"01","trace_id":"d077a161c08e3819d8e39ecbe5d8b11c"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app","span_id":"7c375cb3f1cd7ff9","trace_flags":"01","trace_id":"6232fbeacd60d2c91e17834d03d6aef8"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app","span_id":"816f43cdd69838a7","trace_flags":"01","trace_id":"d2915a1bd5f7acd2e3fda5c05740a374"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app","span_id":"4b262265fe3f00ae","trace_flags":"01","trace_id":"479372fe1c33e8bbcb4abc95613e4173"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app","span_id":"9e50bdb9abb9ae94","trace_flags":"01","trace_id":"3a3fa459beb76bf3c39cdbd8f28a7aaf"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"8b0da80f3d71f2f4","trace_flags":"01","trace_id":"16866368baec1861315ca6988fbdfef2"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app","span_id":"960ca3c9ec95428e","trace_flags":"01","trace_id":"38b8f547e63ab83698de33ed6a2dc563"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app","span_id":"ab559a07d7f45f77","trace_flags":"01","trace_id":"bd7b05501cac676fd52728afd239d25c"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app","span_id":"1c893c73e27542fa","trace_flags":"01","trace_id":"2f5e84b0e9ca6a259644c6839edbecdb"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app","span_id":"528815787acdc907","trace_flags":"01","trace_id":"813ecf9deecd8dd8408fff7bf1345f20"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /products route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the GET /cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"96b61167b986a488","trace_flags":"01","trace_id":"bd5076db1b2281d19b09bc67b930282b"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"53c538b5f98fbdee","trace_flags":"01","trace_id":"187435c8ef368dfbafd3750d27e0f46b"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"94914b89c4902e87","trace_flags":"01","trace_id":"4b3501c435ca05d42a8224a5e0ffcc6e"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"8cda79a21bf78ef2","trace_flags":"01","trace_id":"609a15a272d51fbb387c9bfec955c1da"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"e2457bc0b0c5bedf","trace_flags":"01","trace_id":"94f7cac3473de2f4f3800a176e3edaee"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app","span_id":"9dcedf64c7794e2d","trace_flags":"01","trace_id":"9d368a36a687c10e7f5ecaae6bc06b72"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"314659cf69982084","trace_flags":"01","trace_id":"0ddd6cf2ee564f52c340c4203a8d64a8"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"95051396658fee62","trace_flags":"01","trace_id":"9ab7a587b82c21312f49d89f631f60a5"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"22c14a394ac227b0","trace_flags":"01","trace_id":"ba9c578cee9007ae2894330b7230df48"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"f92ad7b9f73e2519","trace_flags":"01","trace_id":"0de77d03f5b769bdbd776439f3f88dbe"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"08d4585f729a69d1","trace_flags":"01","trace_id":"2d93c3dc0dff87e07911bef3d6e7c4df"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"230c6c3c2b6c648d","trace_flags":"01","trace_id":"4c2cb61d6e957b50a48ab98d9a2daf4a"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"c9b69c95e5565205","trace_flags":"01","trace_id":"242c73b53436cbdea2caf9f8310e04a1"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app","span_id":"bcacbc8ed330bf20","trace_flags":"01","trace_id":"4ff466426aa9407ff333d5ce6a22fd1e"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"e0fa32ec05d1ddcf","trace_flags":"01","trace_id":"5177935940d9b511d673c8b5bb0c7a16"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"40c30b2090f57937","trace_flags":"01","trace_id":"621cf1a89e1609e405b4d0c124161e47"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"9bf660fadb2e65d0","trace_flags":"01","trace_id":"b7ce5bcd9b90f676dce3778c4e22e1ac"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"b5ec196f23d889f2","trace_flags":"01","trace_id":"20033a2a763bbf0791e27cbcbc1a5e38"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"34cc2255605690bf","trace_flags":"01","trace_id":"296bce7878a89f5d229dbad466cf7e9d"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"e25c2536b36bb3f5","trace_flags":"01","trace_id":"d75ed71c41811afaad42018076e6ee4a"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"ee6c29ce7feb78cf","trace_flags":"01","trace_id":"97387b38738f9ca5f52eae1582c3ea46"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app","span_id":"4c712722cdacc7cb","trace_flags":"01","trace_id":"9d3b116daa3b405712895ea22bb29b49"}
+{"level":"info","message":"This is the POST /checkout route","service":"shopping-cart-app","span_id":"e6eb88f45797e19f","trace_flags":"01","trace_id":"daab2517ce222c029269fde212636510"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"Server running on port 5001","service":"shopping-cart-app"}
+{"level":"info","message":"Server running on port 5001","service":"shopping-cart-app"}
+{"level":"info","message":"Server running on port 5001","service":"shopping-cart-app"}
+{"level":"info","message":"Server running on port 5001","service":"shopping-cart-app"}
+{"level":"info","message":"Server running on port 5001","service":"shopping-cart-app"}
+{"level":"info","message":"Server running on port 5001","service":"shopping-cart-app"}
+{"level":"info","message":"Server running on port 5001","service":"shopping-cart-app"}
+{"level":"info","message":"Server running on port 5001","service":"shopping-cart-app"}
+{"level":"info","message":"Server running on port 5001","service":"shopping-cart-app"}
+{"level":"info","message":"Server running on port 5001","service":"shopping-cart-app"}
+{"level":"info","message":"Server running on port 5001","service":"shopping-cart-app"}
+{"level":"info","message":"Server running on port 5001","service":"shopping-cart-app"}

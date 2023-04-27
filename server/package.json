@@ -4,17 +4,24 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon --require ./tracing.js index.js",
     "start-watch": "nodemon index.js",
     "dev": "concurrently \"npm run start-watch\" \"cd ../client && npm start\""
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@opentelemetry/api": "^1.4.0",
+    "@opentelemetry/auto-instrumentations-node": "^0.36.3",
+    "@opentelemetry/sdk-node": "^0.35.1",
     "dotenv": "^8.2.0",
+    "elastic-apm-node": "^3.42.0",
     "express": "^4.17.1",
-    "mongoose": "5.11.15",
-    "prettier": "^2.0.2"
+    "mongodb": "^5.1.0",
+    "mongoose": "^6.7.3",
+    "prettier": "^2.0.2",
+    "winston": "^3.8.2",
+    "winston-elasticsearch": "^0.17.2"
   },
   "devDependencies": {
     "concurrently": "^5.1.0",

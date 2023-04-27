@@ -92,13 +92,17 @@ const router = express.Router();
 const Product = require("../models/product");
 const CartItem = require("../models/cartItem");
 
+// const { logger } = require("../services/logger.js");
+
 router.get("/products", (req, res, next) => {
+  // logger.log("info", "This is the GET /products route");
   Product.find({})
     .then((products) => res.json(products))
     .catch(next);
 });
 
 router.post("/products", (req, res, next) => {
+  // logger.log("info", "This is the POST /products route");
   const { title, price, quantity } = req.body;
   Product.create({ title, price, quantity })
     .then((product) => res.json(product))
@@ -106,6 +110,7 @@ router.post("/products", (req, res, next) => {
 });
 
 router.put("/products/:id", (req, res) => {
+  // logger.log("info", "This is the PUT /products/:id route");
   const productId = req.params.id;
   const { title, price, quantity } = req.body;
   Product.findById(productId)
@@ -126,6 +131,7 @@ router.put("/products/:id", (req, res) => {
 });
 
 router.delete("/products/:id", (req, res, next) => {
+  // logger.log("info", "This is the DELETE /products/:id route");
   const productId = req.params.id;
   Product.findByIdAndRemove(productId)
     .then(() => {
@@ -135,6 +141,7 @@ router.delete("/products/:id", (req, res, next) => {
 });
 
 router.post("/add-to-cart", (req, res, next) => {
+  // logger.log("info", "This is the POST /add-to-cart route");
   const { productId } = req.body;
   Product.findById(productId)
     .then((product) => {
@@ -183,12 +190,14 @@ router.post("/add-to-cart", (req, res, next) => {
 });
 
 router.post("/checkout", (req, res) => {
+  // logger.log("info", "This is the POST /checkout route");
   CartItem.deleteMany({}).then(() => {
     res.json();
   });
 });
 
 router.get("/cart", (req, res, next) => {
+  // logger.log("info", "This is the GET /cart route");
   CartItem.find({})
     .then((cartItems) => {
       res.json(cartItems);

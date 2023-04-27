@@ -1,0 +1,4 @@
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"This is the POST /add-to-cart route","service":"shopping-cart-app"}
+{"level":"info","message":"The Server is up and running on localhost port 3000!","service":"shopping-cart-app"}
